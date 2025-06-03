@@ -28,13 +28,13 @@ twitter: https://twitter.com/YaoyaoLiu1/
 avatar: ./assets/img/img/me_pton_square.jpg
 
 # Footnotes
-footnote: © 2025 The Trustees of Princeton University. <a href="https://accessibility.princeton.edu/" target="_blank" rel="noopener">Accessibility Help</a>
+footnote: © 2025 The Trustees of Princeton University.
 footnote_link: https://accessibility.princeton.edu/
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
+# clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
 
 # The following files will be removed from the generated website.
 exclude:
