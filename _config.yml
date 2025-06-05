@@ -5,7 +5,7 @@ title: Hongyu Hè
 position: PhD student (first year)
 affiliation: Princeton University
 affiliation_link: https://www.princeton.edu/
-affiliation_logo: ./assets/img/illinois.svg
+affiliation_logo: ../assets/img/illinois.svg
 email: hhy (at) g.princeton.edu
 
 # Search Engine Optimization (SEO)
@@ -29,7 +29,7 @@ linkedin: https://www.linkedin.com/in/liuyaoyao/
 twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar: ./assets/img/img/me_pton_square.jpg
+avatar: ../assets/img/img/me_pton_square.jpg
 
 # Footnotes
 footnote: © 2025 The Trustees of Princeton University.
