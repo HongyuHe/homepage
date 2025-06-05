@@ -1,4 +1,4 @@
-baseurl: "/homepage"
+# baseurl: "/homepage"
 
 # Basic Information 
 title: Hongyu Hè
@@ -14,7 +14,7 @@ canonical: https://hhy.ee.princeton.edu
 description: Hongyu Hè is a first-year PhD student at Princeton University.
 
 # The option is used to enable the Illinois template.
-enable_hopkins_logo: true
+# enable_hopkins_logo: true
 
 # The option is used to show the last update time.
 enable_last_update: false
